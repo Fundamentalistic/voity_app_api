@@ -1,0 +1,69 @@
+.left_panel{
+    background-color: #0170bf;
+    height: 100%;
+    border-top: 1px solid #fff;
+}
+.content_panel{
+    height: 100%;
+}
+.navigation{
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    background-color: #0170bf;
+    height: 50px;
+}
+.second_line{
+    position: fixed;
+    left: 0px;
+    top: 50px;
+    right: 0px;
+    bottom: 0px;
+}
+.comname{
+    font-size: 22px;
+    padding-left: 30px;
+    color: #fff;
+}
+.admincomponents > button{
+    position: relative;
+    background-color: #0170bf;
+    color: #fff;
+    margin: 3px;
+    padding: 5px;
+    border-left: 0;
+    border-right: 0;
+    font-size: 14px;
+}
+.admincomponents > button:hover{
+    background-color: #fff;
+    color: #555;
+}
+.admincomponents > button:first-child{
+    margin-top: 30px;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.usercomponent{
+    margin: 10px;
+    border-left: 0;
+    border-right: 0;
+    background-color: #0170bf;
+    color: #fff;
+    outline: none;
+}
+.admincomponents > button:focus, .usercomponent:focus{
+    outline: none;
+}
+.dropdown-item{
+    font-size: 12px;
+}
+.thead-secondary{
+    background-color: #3F90CA;
+    color: #fff;
+}
+tr:hover{
+    background-color: #0170bf;
+    color: #fff;
+}

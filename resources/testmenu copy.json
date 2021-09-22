@@ -1,0 +1,109 @@
+{
+    "menu": [
+        {
+            "type": 0,
+            "sectionName": "Буретброды",
+            "image": "http://betwalker.ru:8005/company/imgs/image1.jpg",
+            "background": "#fff",
+            "menu": [
+                {
+                    "type": 1,
+                    "objectName": "Бутерброд1",
+                    "image": "http://betwalker.ru:8005/company/imgs/image2.jpg",
+                    "background": "#fff",
+                    "price": 10000,
+                    "short_desk": "Короткое описание",
+                    "descriptionId": 1
+                },
+                {
+                    "type": 1,
+                    "objectName": "Бутерброд2",
+                    "image": "http://betwalker.ru:8005/company/imgs/image2.jpg",
+                    "background": "#fff",
+                    "price": 10000,
+                    "short_desk": "Короткое описание",
+                    "descriptionId": 2
+                }
+            ]
+        },
+        {
+            "type": 0,
+            "sectionName": "Супы",
+            "image": "http://betwalker.ru:8005/company/imgs/image2.jpg",
+            "background": "#fff",
+            "menu": [
+                {
+                    "type": 0,
+                    "sectionName": "Супы",
+                    "image": "http://betwalker.ru:8005/company/imgs/image2.jpg",
+                    "background": "#fff",
+                    "menu": [
+                        {
+                            "type": 1,
+                            "objectName": "Самый дерзкий суп на свете1",
+                            "image": "http://betwalker.ru:8005/company/imgs/image2.jpg",
+                            "background": "#fff",
+                            "price": 10000,
+                            "short_desk": "Короткое описание",
+                            "descriptionId": 1
+                        },
+                        {
+                            "type": 1,
+                            "objectName": "Самый дерзкий суп на свете2",
+                            "image": "http://betwalker.ru:8005/company/imgs/image2.jpg",
+                            "background": "#fff",
+                            "price": 10000,
+                            "short_desk": "Короткое описание",
+                            "descriptionId": 1
+                        },
+                        {
+                            "type": 1,
+                            "objectName": "Самый дерзкий суп на свете3",
+                            "image": "http://betwalker.ru:8005/company/imgs/image2.jpg",
+                            "background": "#fff",
+                            "price": 10000,
+                            "short_desk": "Короткое описание",
+                            "descriptionId": 1
+                        },
+                        {
+                            "type": 1,
+                            "objectName": "Самый дерзкий суп на свете4",
+                            "image": "http://betwalker.ru:8005/company/imgs/image2.jpg",
+                            "background": "#fff",
+                            "price": 10000,
+                            "short_desk": "Короткое описание",
+                            "descriptionId": 1
+                        },
+                        {
+                            "type": 1,
+                            "objectName": "Самый дерзкий суп на свете5",
+                            "image": "http://betwalker.ru:8005/company/imgs/image2.jpg",
+                            "background": "#fff",
+                            "price": 10000,
+                            "short_desk": "Короткое описание",
+                            "descriptionId": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": 0,
+            "sectionName": "Картошка",
+            "image": "http://betwalker.ru:8005/company/imgs/image3.jpg",
+            "background": "#fff",
+            "menu": [
+                
+            ]
+        },
+        {
+            "type": 1,
+            "objectName": "Что-то не относящееся ни к чему, но имеющее смысл находиться на первой странице меню",
+            "image": "http://betwalker.ru:8005/company/imgs/image2.jpg",
+            "background": "#fff",
+            "price": 10000,
+            "short_desk": "Короткое описание",
+            "descriptionId": 2
+        }
+    ]
+}
